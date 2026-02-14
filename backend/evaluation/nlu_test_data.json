@@ -1,0 +1,962 @@
+[
+    {
+        "text": "what is the minimum order quantity for servos",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "can i buy just 5 units",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "what is the smallest shipment you can do",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "do you have a minimum limit for purchase",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "i need only a few items",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "is there a lower limit on orders",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "minimal batch size allowed",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "can i order less than 10",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "lowest amount i can buy",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "moq requirements please",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "small order possible",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "what is the floor for order size",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "minimum units to buy",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "purchase limit min",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "start order count",
+        "intent": "INFO_MOQ"
+    },
+    {
+        "text": "how much does a motor cost",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "price for 100 units",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "quote me a price",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "what is the rate per unit",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "cost breakdown please",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "is it expensive",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "pricing details for bulk",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "how much cash do i need",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "what do you charge for delivery",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "current market price",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "price list availability",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "how much is the pneumatic actuator",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "cost of shipping included",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "tell me the damage",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "financial cost",
+        "intent": "INFO_PRICE"
+    },
+    {
+        "text": "how do you ship items",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "is shipping free",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "do you deliver to france",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "what carriers do you use",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "freight charges",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "logistics partners",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "can i use my own fedex account",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "delivery methods available",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "air freight or sea freight",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "shipping to asia",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "transit carriers",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "who handles delivery",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "shipping cost estimation",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "delivery partners",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "international shipping policy",
+        "intent": "INFO_SHIPPING"
+    },
+    {
+        "text": "when will i get my stuff",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "how long does production take",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "lead time for custom orders",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "expected delivery date",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "time to manufacture",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "turnaround duration",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "when can you ship",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "manufacturing timeline",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "how fast can you deliver",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "wait time for stock",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "eta for new orders",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "production schedule",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "how many days until dispatch",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "delivery speed",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "timeframe for completion",
+        "intent": "INFO_LEADTIME"
+    },
+    {
+        "text": "do you give discounts",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "bulk pricing available",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "is it cheaper if i buy more",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "volume discount rates",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "wholesale benefits",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "price for large quantity",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "discount for 1000 units",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "any deals on big orders",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "tiered pricing structure",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "savings on bulk buy",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "large order perks",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "quantity breaks",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "high volume quote",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "trade discount",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "commercial pricing",
+        "intent": "INFO_BULK"
+    },
+    {
+        "text": "where is my order",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "track shipment",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "status of PO 12345",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "has my package left",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "check delivery status",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "tracking number please",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "locate my box",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "shipment progress",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "is it delivered yet",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "order tracking link",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "trace my parcel",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "shipping update",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "delivery status check",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "package location",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "shipment finder",
+        "intent": "INFO_TRACK"
+    },
+    {
+        "text": "can i get a sample",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "send me a prototype",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "do you have paid samples",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "try before buy",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "sample unit request",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "evaluation kit",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "test product availability",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "sample policy",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "can i see it first",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "requesting a demo unit",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "sample cost",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "trial order",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "specimen request",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "mockup availability",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "preview item",
+        "intent": "INFO_SAMPLE"
+    },
+    {
+        "text": "how do i return this",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "return policy",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "item is broken need refund",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "rma process",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "exchange for new one",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "warranty return",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "send back defective unit",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "refund timeline",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "restocking fee",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "return authorization",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "damaged goods process",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "money back guarantee",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "can i initiate a return",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "product recall",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "incorrect item received",
+        "intent": "INFO_RETURN"
+    },
+    {
+        "text": "do you take credit cards",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "payment options",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "can i pay via wire transfer",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "net 30 terms",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "how to pay invoice",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "accepted currencies",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "payment gateway",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "bank details for transfer",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "credit line application",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "pay later",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "financing options",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "billing methods",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "secure payment",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "checking account payment",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "credit card fee",
+        "intent": "INFO_PAYMENT"
+    },
+    {
+        "text": "show me your products",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "go to catalog",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "open shop",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "browse items",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "what do you sell",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "product listing",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "shopping page",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "view marketplace",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "see inventory",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "catalog access",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "list all parts",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "storefront",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "online shop",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "buy products",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "see wares",
+        "intent": "NAV_MARKETPLACE"
+    },
+    {
+        "text": "who makes these",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "list of suppliers",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "vendor info",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "manufacturer details",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "factory source",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "supply chain partners",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "our vendors",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "supplier directory",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "view manufacturers",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "origin of products",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "sourcing agents",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "brand list",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "vendor catalog",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "maker information",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "who provides this",
+        "intent": "NAV_SUPPLIER"
+    },
+    {
+        "text": "i need a custom quote",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "rfq form",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "submit a request for quote",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "bulk pricing request",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "get a price estimate",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "quote generation",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "request pricing",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "proposal request",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "send me a quote",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "open rfq",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "bidding process",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "price solicitation",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "custom order inquiry",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "quote sheet",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "pricing enquiry",
+        "intent": "NAV_RFQ"
+    },
+    {
+        "text": "im stuck",
+        "intent": "HELP"
+    },
+    {
+        "text": "what can you do",
+        "intent": "HELP"
+    },
+    {
+        "text": "assist me",
+        "intent": "HELP"
+    },
+    {
+        "text": "i dont understand",
+        "intent": "HELP"
+    },
+    {
+        "text": "need support",
+        "intent": "HELP"
+    },
+    {
+        "text": "help menu",
+        "intent": "HELP"
+    },
+    {
+        "text": "guide me",
+        "intent": "HELP"
+    },
+    {
+        "text": "usage instructions",
+        "intent": "HELP"
+    },
+    {
+        "text": "support agent",
+        "intent": "HELP"
+    },
+    {
+        "text": "human help",
+        "intent": "HELP"
+    },
+    {
+        "text": "features list",
+        "intent": "HELP"
+    },
+    {
+        "text": "how to use",
+        "intent": "HELP"
+    },
+    {
+        "text": "capabilities",
+        "intent": "HELP"
+    },
+    {
+        "text": "troubleshooting",
+        "intent": "HELP"
+    },
+    {
+        "text": "aid me",
+        "intent": "HELP"
+    },
+    {
+        "text": "hello",
+        "intent": "GREETING"
+    },
+    {
+        "text": "hi",
+        "intent": "GREETING"
+    },
+    {
+        "text": "good morning",
+        "intent": "GREETING"
+    },
+    {
+        "text": "hey there",
+        "intent": "GREETING"
+    },
+    {
+        "text": "greetings",
+        "intent": "GREETING"
+    },
+    {
+        "text": "yo",
+        "intent": "GREETING"
+    },
+    {
+        "text": "anybody there",
+        "intent": "GREETING"
+    },
+    {
+        "text": "welcome",
+        "intent": "GREETING"
+    },
+    {
+        "text": "hola",
+        "intent": "GREETING"
+    },
+    {
+        "text": "good afternoon",
+        "intent": "GREETING"
+    },
+    {
+        "text": "start chat",
+        "intent": "GREETING"
+    },
+    {
+        "text": "hi bot",
+        "intent": "GREETING"
+    },
+    {
+        "text": "hello system",
+        "intent": "GREETING"
+    },
+    {
+        "text": "good evening",
+        "intent": "GREETING"
+    },
+    {
+        "text": "salutations",
+        "intent": "GREETING"
+    },
+    {
+        "text": "bye",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "goodbye",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "see ya",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "take care",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "ending chat",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "im leaving",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "close session",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "quit",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "exit",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "thanks bye",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "done for now",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "later",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "signing off",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "terminate",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "have a good one",
+        "intent": "FAREWELL"
+    },
+    {
+        "text": "TRACER: Code Updated.",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    },
+    {
+        "text": "SYSTEM_RFQ_SUBMITTED",
+        "intent": "SYSTEM_RFQ_SUBMITTED"
+    }
+]

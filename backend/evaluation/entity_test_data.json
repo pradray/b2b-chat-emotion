@@ -1,0 +1,375 @@
+[
+    {
+        "text": "i need 500 servo motors",
+        "entities": {
+            "product": "servo motors",
+            "quantity": "500"
+        }
+    },
+    {
+        "text": "price for ten actuators",
+        "entities": {
+            "product": "actuators",
+            "quantity": "10"
+        }
+    },
+    {
+        "text": "quoting 50 units of fiber optic cable",
+        "entities": {
+            "product": "fiber optic cable",
+            "quantity": "50"
+        }
+    },
+    {
+        "text": "do you have pneumatic cylinders in stock",
+        "entities": {
+            "product": "pneumatic cylinders"
+        }
+    },
+    {
+        "text": "looking for 1000 sensors",
+        "entities": {
+            "product": "sensors",
+            "quantity": "1000"
+        }
+    },
+    {
+        "text": "cost of a single plc controller",
+        "entities": {
+            "product": "plc controller",
+            "quantity": "1"
+        }
+    },
+    {
+        "text": "how much for 250 gearboxes",
+        "entities": {
+            "product": "gearboxes",
+            "quantity": "250"
+        }
+    },
+    {
+        "text": "shipping for hydraulic pumps",
+        "entities": {
+            "product": "hydraulic pumps"
+        }
+    },
+    {
+        "text": "order 5 industrial robots",
+        "entities": {
+            "product": "industrial robots",
+            "quantity": "5"
+        }
+    },
+    {
+        "text": "quote for 1200 bearings",
+        "entities": {
+            "product": "bearings",
+            "quantity": "1200"
+        }
+    },
+    {
+        "text": "i want to buy a conveyor belt",
+        "entities": {
+            "product": "conveyor belt",
+            "quantity": "1"
+        }
+    },
+    {
+        "text": "availability of 75 stepper motors",
+        "entities": {
+            "product": "stepper motors",
+            "quantity": "75"
+        }
+    },
+    {
+        "text": "price of 3d printers",
+        "entities": {
+            "product": "3d printers"
+        }
+    },
+    {
+        "text": "need 2000 fasteners",
+        "entities": {
+            "product": "fasteners",
+            "quantity": "2000"
+        }
+    },
+    {
+        "text": "quote 150 valves",
+        "entities": {
+            "product": "valves",
+            "quantity": "150"
+        }
+    },
+    {
+        "text": "check stock for human machine interface",
+        "entities": {
+            "product": "human machine interface"
+        }
+    },
+    {
+        "text": "buying 60 power supplies",
+        "entities": {
+            "product": "power supplies",
+            "quantity": "60"
+        }
+    },
+    {
+        "text": "cost for 300 relays",
+        "entities": {
+            "product": "relays",
+            "quantity": "300"
+        }
+    },
+    {
+        "text": "looking for proximity sensors",
+        "entities": {
+            "product": "proximity sensors"
+        }
+    },
+    {
+        "text": "purchase 100m of wiring",
+        "entities": {
+            "product": "wiring",
+            "quantity": "100"
+        }
+    },
+    {
+        "text": "price check for 5000 resistors",
+        "entities": {
+            "product": "resistors",
+            "quantity": "5000"
+        }
+    },
+    {
+        "text": "do you sell soldering stations",
+        "entities": {
+            "product": "soldering stations"
+        }
+    },
+    {
+        "text": "need 12 oscilloscopes",
+        "entities": {
+            "product": "oscilloscopes",
+            "quantity": "12"
+        }
+    },
+    {
+        "text": "quote for 80 multimeters",
+        "entities": {
+            "product": "multimeters",
+            "quantity": "80"
+        }
+    },
+    {
+        "text": "buy 1500 capacitors",
+        "entities": {
+            "product": "capacitors",
+            "quantity": "1500"
+        }
+    },
+    {
+        "text": "cost of 400 diodes",
+        "entities": {
+            "product": "diodes",
+            "quantity": "400"
+        }
+    },
+    {
+        "text": "looking for transistors",
+        "entities": {
+            "product": "transistors"
+        }
+    },
+    {
+        "text": "price for 25 microcontrollers",
+        "entities": {
+            "product": "microcontrollers",
+            "quantity": "25"
+        }
+    },
+    {
+        "text": "order 10 development boards",
+        "entities": {
+            "product": "development boards",
+            "quantity": "10"
+        }
+    },
+    {
+        "text": "shipping on 500 leds",
+        "entities": {
+            "product": "leds",
+            "quantity": "500"
+        }
+    },
+    {
+        "text": "quote 50 lcd screens",
+        "entities": {
+            "product": "lcd screens",
+            "quantity": "50"
+        }
+    },
+    {
+        "text": "availability of 200 switches",
+        "entities": {
+            "product": "switches",
+            "quantity": "200"
+        }
+    },
+    {
+        "text": "price for 1000 connectors",
+        "entities": {
+            "product": "connectors",
+            "quantity": "1000"
+        }
+    },
+    {
+        "text": "buy 300 terminal blocks",
+        "entities": {
+            "product": "terminal blocks",
+            "quantity": "300"
+        }
+    },
+    {
+        "text": "need 50 fuses",
+        "entities": {
+            "product": "fuses",
+            "quantity": "50"
+        }
+    },
+    {
+        "text": "cost for 150 circuit breakers",
+        "entities": {
+            "product": "circuit breakers",
+            "quantity": "150"
+        }
+    },
+    {
+        "text": "looking for 20 contactors",
+        "entities": {
+            "product": "contactors",
+            "quantity": "20"
+        }
+    },
+    {
+        "text": "purchase 10 transformers",
+        "entities": {
+            "product": "transformers",
+            "quantity": "10"
+        }
+    },
+    {
+        "text": "quote 5 inverters",
+        "entities": {
+            "product": "inverters",
+            "quantity": "5"
+        }
+    },
+    {
+        "text": "price of 100 batteries",
+        "entities": {
+            "product": "batteries",
+            "quantity": "100"
+        }
+    },
+    {
+        "text": "order 50 solar panels",
+        "entities": {
+            "product": "solar panels",
+            "quantity": "50"
+        }
+    },
+    {
+        "text": "shipping for wind turbines",
+        "entities": {
+            "product": "wind turbines"
+        }
+    },
+    {
+        "text": "buy 2000 cable ties",
+        "entities": {
+            "product": "cable ties",
+            "quantity": "2000"
+        }
+    },
+    {
+        "text": "cost of 500 heat shrink tubing",
+        "entities": {
+            "product": "heat shrink tubing",
+            "quantity": "500"
+        }
+    },
+    {
+        "text": "looking for 100 enclosures",
+        "entities": {
+            "product": "enclosures",
+            "quantity": "100"
+        }
+    },
+    {
+        "text": "need 50 fans",
+        "entities": {
+            "product": "fans",
+            "quantity": "50"
+        }
+    },
+    {
+        "text": "quote 25 heatsinks",
+        "entities": {
+            "product": "heatsinks",
+            "quantity": "25"
+        }
+    },
+    {
+        "text": "availability of thermal paste",
+        "entities": {
+            "product": "thermal paste"
+        }
+    },
+    {
+        "text": "price for 1000 screws",
+        "entities": {
+            "product": "screws",
+            "quantity": "1000"
+        }
+    },
+    {
+        "text": "buy 500 nuts and bolts",
+        "entities": {
+            "product": "nuts and bolts",
+            "quantity": "500"
+        }
+    },
+    {
+        "text": "i need a snesor",
+        "entities": {
+            "product": "sensor",
+            "quantity": "1"
+        }
+    },
+    {
+        "text": "price for 50 swichs",
+        "entities": {
+            "product": "switch",
+            "quantity": "50"
+        }
+    },
+    {
+        "text": "looking for batreies",
+        "entities": {
+            "product": "battery"
+        }
+    },
+    {
+        "text": "quote on controoller",
+        "entities": {
+            "product": "controller"
+        }
+    },
+    {
+        "text": "fibe optic cables needed",
+        "entities": {
+            "product": "fiber optic cable"
+        }
+    }
+]

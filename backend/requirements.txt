@@ -1,0 +1,14 @@
+flask
+flask-cors
+fuzzywuzzy 
+python-Levenshtein
+vaderSentiment
+SpeechRecognition
+pyttsx3
+# Conversational AI Improvements
+sentence-transformers
+groq
+python-dotenv
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+torch>=2.0.0
